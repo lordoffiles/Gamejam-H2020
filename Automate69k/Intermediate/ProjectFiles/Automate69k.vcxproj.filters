@@ -60,4 +60,14 @@
       <Filter>Source\Automate69k</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Automate69k\ObjectTranslator.h">
+      <Filter>Source\Automate69k</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Automate69k\ObjectTranslator.cpp">
+      <Filter>Source\Automate69k</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
