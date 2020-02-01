@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Automate69k.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{178629CE-18A3-4BD1-8CC4-CFA934EA8CC3}</UniqueIdentifier>
+      <UniqueIdentifier>{CF2C5173-F6B0-48FB-B97A-740AED9815DD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Automate69k.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{961EA9F3-3B5B-4129-8DCE-1096F27A5266}</UniqueIdentifier>
+      <UniqueIdentifier>{F7C5366B-8374-4573-81E2-0076BFF26423}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Automate69k">
-      <UniqueIdentifier>{D07AEB8A-949C-43A1-8C3C-6D902E7F018E}</UniqueIdentifier>
+      <UniqueIdentifier>{6A1035DD-0DE1-4EBD-94E9-037390B5BD9D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Automate69k\Automate69k.Build.cs">
       <Filter>Source\Automate69k</Filter>
@@ -53,5 +53,21 @@
     <ClInclude Include="..\..\Source\Automate69k\Automate69kGameMode.h">
       <Filter>Source\Automate69k</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Automate69k\ObjectMakeFaller.cpp">
+      <Filter>Source\Automate69k</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Automate69k\ObjectMakeFaller.h">
+      <Filter>Source\Automate69k</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Automate69k\ObjectTranslator.h">
+      <Filter>Source\Automate69k</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Automate69k\ObjectTranslator.cpp">
+      <Filter>Source\Automate69k</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
